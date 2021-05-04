@@ -1,9 +1,0 @@
-- hosts: webservers
-  become: yes
-  tasks:
-#### conditons
-    - name: uninstall a webserver
-      yum:
-        name: httpd
-        autoremove: yes
-        state: absent
