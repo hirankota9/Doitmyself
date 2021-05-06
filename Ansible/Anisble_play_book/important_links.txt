@@ -4,6 +4,9 @@ https://linoxide.com/how-to-install-tomcat-on-ubuntu-20-04-using-ansible/
 https://computingforgeeks.com/install-tomcat-on-ubuntu-centos-with-ansible/
 https://medium.com/@atultyagi842/ansible-playbook-to-install-tomcat-and-run-application-on-ubuntu-16-04-ad8e5557f117
 
+https://github.com/jmutai/tomcat-ansible
+https://github.com/zaxos/tomcat-ansible-role
+
 
 Creating Directory Ansible links:
 --------------------------------
