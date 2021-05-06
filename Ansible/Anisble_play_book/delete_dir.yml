@@ -1,0 +1,9 @@
+---
+ - hosts: webservers
+   become: yes
+   tasks:
+     - name: Deleting Directory
+       file: ## mkdir test
+         dest: /tmp/test
+         state: absent
+
