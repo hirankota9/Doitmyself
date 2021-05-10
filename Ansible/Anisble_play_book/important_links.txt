@@ -27,3 +27,22 @@ https://www.mydailytutorials.com/ansible-create-directory/
 Deleting Directory
 --------------------------------
 https://code-maven.com/ansible-playbook-remove-directory
+
+Terminating all EC2 instance using ansible:
+---------------------------------------------
+
+https://eu6.proxysite.com/process.php?d=IUoqZOG2SCI%2BDf%2BU8tJGjnYS5pZzlGzu7%2BslMvZhJf1SsTsvG8OTr0tK7FtAAkicP3I9WwMuKnTvv0yvW1cj0M92WOh1tWup8T1ltC07Rz0hCpMitHU%3D&b=1
+
+
+EC2 Inventory file:
+-------------------
+https://eu6.proxysite.com/process.php?d=IUoqZOG2SCI%2BDf%2BU8tJGjnYS5pZzlGzu7%2BslMvZhJf1Stzs7BM%2BOphJHrklYQwyTPmR%2BSg9ufjDguBW8QFoyyo9mBuB1tmup%2Byoht2wuCzsxHdclqDM7hOsuanMitZ9hQj7oYkvMai%2FFQ186&b=1
+
+How to Install and Configure Prometheus on Linux? (Ubuntu and CentOS):
+-----------------------------------------------------------------------
+https://eu6.proxysite.com/process.php?d=IUoqZOG2SCI%2BDf%2BU8tJGjnYS75d30Hrtp68jLvUtPf5SoTE%2BHc%2BP41xAr05NBwuYOix%2FUE1wbnP0tBW7V0Eo15cuSu9%2F%2FyWt8TpjpW4%3D&b=1
+
+
+systemctl start/stop service: How to Setup Upstart Script and Respawn Process in Ubuntu, CentOS, Redhat Linux:
+------------------------------------------------------------------------------------------------------------
+https://eu6.proxysite.com/process.php?d=IUoqZOG2SCI%2BDf%2BU8tJGjnYS9IFziWvv7us4LfI4MOAL6Cw4BdqcuVECsUhDDQCOOyx8Vw5pfzDuvxc%3D&b=1
